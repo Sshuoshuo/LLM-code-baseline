@@ -17,6 +17,8 @@ LLM在不同任务上的基线。也会融入Pretrain-Finetuned范式下的Bert�
 
   微调任务。待更新。
 
+  已更新QWen微调。
+
 - RLHF-align
 
   强化学习对齐相关任务。待更新。
